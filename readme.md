@@ -1,2 +1,2 @@
-![alt1]('assets/prints/inc1.jpg')
-![alt2]('assets/prints/inc2.jpg')
+![alt1](https://imgur.com/TtDDnkg)
+![alt2](https://imgur.com/Mp29Q7G)
