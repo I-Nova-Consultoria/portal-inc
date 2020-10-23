@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.hero {
+    height: 100vh;
+    background-image: linear-gradient(rgba(0, 105, 233, 0.589), rgba(0, 105, 233, 0.548)),url(./assets/background.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.upper-text {
+    left: 10%;
+    top: 10%;
+    position: absolute;
+    color: azure;
+    opacity: 0.5;
+    
+}
+.upper-text h1 {
+    font-size: 60px;  
+    line-height: 90px;
+    font-style: italic;
+}
+.upper-text img {
+    max-width: 200px;
+    
+
+}
+.content-right img {
+    width: 650px;
+    margin-top: 4%;
+    margin-left: 60%;
+}
+.login-1 {
+      
+    border-radius: 5%;
+    border-color: crimson;
+    
+
+}
+.form-1 {
+    display: flex;
+    justify-content: center;
+    top: 30%;
+    left: 40%;
+    position: absolute;
+    
+}
+.form-1 input {    
+    font-size: 23px;
+    border: 0;
+    background: none;
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #3498db;
+    padding: 14px 10px;
+    outline: none;
+    background-color: rgba(0, 0, 0, 0.74);  
+    color: azure;
+    border-radius: 24px;
+}
+.form-1 h1 {
+    margin-left: 38%;
+    color: azure;
+}
+.form-1 button {
+    width: 100px;
+    height: 30px;
+    margin-left: 35%;
+    font-size: 13px;
+    border: 0;
+    background: none;    
+    text-align: center;
+    border: 2px solid #002efd;    
+    outline: none;
+    background-color: rgba(2, 117, 211, 0.74);  
+    color: azure;
+    border-radius: 24px;
+}
+
+.quadro-1 {
+    background-color: rgba(0, 117, 252, 0.534);
+    width: 400px;    
+    text-align: center;
+    color: azure;
+    margin-top: 5%;
+    margin-left: 40%;
+    position: absolute;
+}
+.quadro-2 {
+    background-color: rgba(0, 117, 252, 0.534);
+    color: azure;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 3%;
+    width: 500px;
+    height: 400px;
+    text-align: center;
+}
+.quadro-3 {
+    background-color: rgba(0, 117, 252, 0.534);
+    color: azure;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 40%;
+    width: 300px;
+    height: 200px;
+    text-align: center;
+}
+.enviar {
+    width: 150px;
+    height: 50px;
+    background: none;
+    color: azure;
+    border-radius: 24px;
+    border-color: #002efd;
+    background-color: #3498dba9;
+}
